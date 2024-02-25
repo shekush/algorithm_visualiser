@@ -1,0 +1,4 @@
+INDEX VERSION 1.131+C:\Users\HP\Desktop\algorithm_visualiser\.metadata\.plugins\org.eclipse.jdt.core
+2982410024.index
+2479278389.index
+1865797976.index
