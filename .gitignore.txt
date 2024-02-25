@@ -1,1 +1,4 @@
-.metadata
+.metadata/
+algorithm_visualiser/bin
+algorithm_visualiser/.classpath
+algorithm_visualiser/.project
